@@ -1,0 +1,19 @@
+{
+  "version-1.3.13-docs": {
+    "Docusaurus": [
+      "version-1.3.13-doc1"
+    ],
+    "First Category": [
+      "version-1.3.13-doc2"
+    ],
+    "Second Category": [
+      "version-1.3.13-doc3"
+    ]
+  },
+  "version-1.3.13-docs-other": {
+    "First Category": [
+      "version-1.3.13-doc4",
+      "version-1.3.13-doc5"
+    ]
+  }
+}
